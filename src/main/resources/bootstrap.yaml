@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-vault
+  cloud:
+    vault:
+      url: http://localhost:8081
+      token: f5c83019-1c2e-44f9-a096-c7e5a0d38e5d
